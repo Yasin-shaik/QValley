@@ -1,0 +1,21 @@
+account,payee,amount,ts
+ACC1001,urgentrefund@upi,1099,2025-08-25 01:22:00
+ACC1002,trustedshop@upi,999,2025-08-25 11:03:00
+ACC1003,random123456@upi,50,2025-08-25 12:00:00
+ACC1003,random123456@upi,50,2025-08-25 12:30:00
+ACC1003,random123456@upi,50,2025-08-25 13:00:00
+ACC1004,employee@upi,42000,2025-08-25 14:30:00
+ACC1005,winnerlottery@upi,5000,2025-08-25 15:15:00
+ACC1006,emergencyhelp@upi,1500,2025-08-25 16:45:00
+ACC1007,familymember@upi,200,2025-08-25 18:10:00
+ACC1008,fakeoffer@upi,25000,2025-08-25 23:59:00
+ACC1009,utilitiesbill@upi,800,2025-08-26 09:05:00
+ACC1010,schoolfees@upi,1500,2025-08-26 10:15:00
+ACC1011,hospitalpayment@upi,12000,2025-08-26 11:20:00
+ACC1012,shoppingmall@upi,3500,2025-08-26 12:30:00
+ACC1013,scamcrypto123@upi,20000,2025-08-26 13:45:00
+ACC1014,gasbill@upi,600,2025-08-26 14:10:00
+ACC1015,flightbooking@upi,18000,2025-08-26 15:55:00
+ACC1016,unknownbonus@upi,9999,2025-08-26 17:25:00
+ACC1017,groceryshop@upi,2500,2025-08-26 18:40:00
+ACC1018,charitydonation@upi,500,2025-08-26 19:10:00

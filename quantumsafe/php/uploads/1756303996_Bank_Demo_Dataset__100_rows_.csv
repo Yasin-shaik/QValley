@@ -1,0 +1,101 @@
+account,payee,amount,score,verdict,reasons,action,ts
+ACC1001,schoolfees@upi,4726.17,17,SAFE,Known payee history,Allow • Monitor,2025-08-27 10:21:59
+ACC1002,taxdept@upi,1582.56,37,SAFE,Amount within usual range,Allow • Monitor,2025-08-30 00:13:31
+ACC1003,loanapprovalfast@upi,44464.97,82,FRAUD,Random digits in UPI handle • Potential phishing pattern • High transaction amount,HOLD & VERIFY KYC • Block payee • Call customer,2025-08-25 08:49:17
+ACC1004,bonusrefund@upi,9975.12,43,SUSPICIOUS,New/unknown payee • Suspicious payee pattern,Manual review • OTP confirm • Call-back verification,2025-08-23 18:27:54
+ACC1005,subscriptiondue@upi,18352.96,52,SUSPICIOUS,New/unknown payee • Invoice-like rounded amount,Manual review • OTP confirm • Call-back verification,2025-08-27 10:56:01
+ACC1006,subscriptiondue@upi,5701.21,57,SUSPICIOUS,Suspicious payee pattern • Repeated payments detected,Manual review • OTP confirm • Call-back verification,2025-08-22 23:40:29
+ACC1007,taxdept@upi,4933.01,28,SAFE,Regular bill payment,Allow • Monitor,2025-08-30 21:51:05
+ACC1008,emergencyhelp@upi,9634.67,72,FRAUD,Suspicious payee token detected • High transaction amount • Urgency/threat language,HOLD & VERIFY KYC • Block payee • Call customer,2025-08-24 07:58:33
+ACC1009,bonusrefund@upi,5402.38,45,SUSPICIOUS,Invoice-like rounded amount • Repeated payments detected,Manual review • OTP confirm • Call-back verification,2025-08-20 13:18:14
+ACC1010,coworker@upi,1627.13,33,SAFE,Known payee history,Allow • Monitor,2025-08-23 02:46:06
+ACC1011,hospitalpayment@upi,4761.84,39,SAFE,Business hours transaction,Allow • Monitor,2025-08-31 04:21:44
+ACC1012,electricityboard@upi,2000.89,27,SAFE,Business hours transaction,Allow • Monitor,2025-08-28 07:05:37
+ACC1013,servicepayment@upi,1533.48,46,SUSPICIOUS,New/unknown payee • Unusual time of transfer,Manual review • OTP confirm • Call-back verification,2025-08-24 00:02:33
+ACC1014,helplinecenter@upi,1241.0,59,SUSPICIOUS,New/unknown payee • Unusual time of transfer,Manual review • OTP confirm • Call-back verification,2025-08-21 04:38:09
+ACC1015,internetprovider@upi,176.23,34,SAFE,Business hours transaction,Allow • Monitor,2025-08-24 06:21:27
+ACC1016,grocerymart@upi,1298.68,35,SAFE,Amount within usual range,Allow • Monitor,2025-08-26 05:55:41
+ACC1017,hospitalpayment@upi,621.0,18,SAFE,Business hours transaction,Allow • Monitor,2025-08-28 00:57:58
+ACC1018,hospitalpayment@upi,475.13,24,SAFE,Amount within usual range,Allow • Monitor,2025-08-21 20:28:29
+ACC1019,paylaternotice@upi,13902.72,66,SUSPICIOUS,New/unknown payee • Repeated payments detected,Manual review • OTP confirm • Call-back verification,2025-08-28 08:50:27
+ACC1020,offerclaim@upi,10954.81,62,SUSPICIOUS,Repeated payments detected • Unusual time of transfer,Manual review • OTP confirm • Call-back verification,2025-08-21 03:13:40
+ACC1021,taxdept@upi,2616.06,23,SAFE,Regular bill payment,Allow • Monitor,2025-08-22 20:57:01
+ACC1022,trustedshop@upi,3906.32,32,SAFE,Regular bill payment,Allow • Monitor,2025-08-26 07:10:19
+ACC1023,coworker@upi,4270.51,39,SAFE,Regular bill payment,Allow • Monitor,2025-08-23 22:35:18
+ACC1024,familymember@upi,2489.27,31,SAFE,Amount within usual range,Allow • Monitor,2025-08-20 09:01:01
+ACC1025,hospitalpayment@upi,1008.54,23,SAFE,Business hours transaction,Allow • Monitor,2025-08-29 20:32:05
+ACC1026,insurancepremium@upi,4940.79,38,SAFE,Regular bill payment,Allow • Monitor,2025-08-25 10:55:56
+ACC1027,schoolfees@upi,2376.9,22,SAFE,Business hours transaction,Allow • Monitor,2025-08-25 15:26:27
+ACC1028,coworker@upi,4210.16,34,SAFE,Amount within usual range,Allow • Monitor,2025-08-28 07:46:27
+ACC1029,insurancepremium@upi,469.65,35,SAFE,Business hours transaction,Allow • Monitor,2025-08-30 12:21:56
+ACC1030,prizeclaim001234@upi,37756.88,92,FRAUD,Random digits in UPI handle • Potential phishing pattern • High transaction amount,HOLD & VERIFY KYC • Block payee • Call customer,2025-08-27 14:29:59
+ACC1031,updatekyc@upi,9370.58,52,SUSPICIOUS,New/unknown payee • Suspicious payee pattern,Manual review • OTP confirm • Call-back verification,2025-08-21 13:47:01
+ACC1032,servicepayment@upi,11898.08,44,SUSPICIOUS,New/unknown payee • Invoice-like rounded amount,Manual review • OTP confirm • Call-back verification,2025-08-28 07:52:44
+ACC1033,coffeehouse@upi,821.77,26,SAFE,Known payee history,Allow • Monitor,2025-08-28 12:46:08
+ACC1034,utilitiesbill@upi,3265.89,38,SAFE,Business hours transaction,Allow • Monitor,2025-08-28 13:04:11
+ACC1035,verifyk_yc@upi,41481.61,76,FRAUD,Potential phishing pattern • Suspicious payee token detected • Random digits in UPI handle,HOLD & VERIFY KYC • Block payee • Call customer,2025-08-23 09:01:09
+ACC1036,cryptoairdrop@upi,38420.31,77,FRAUD,Urgency/threat language • Random digits in UPI handle • High transaction amount,HOLD & VERIFY KYC • Block payee • Call customer,2025-08-25 17:26:35
+ACC1037,servicepayment@upi,14850.46,69,SUSPICIOUS,Suspicious payee pattern • Invoice-like rounded amount,Manual review • OTP confirm • Call-back verification,2025-08-28 05:14:20
+ACC1038,verifyk_yc@upi,7407.4,86,FRAUD,Urgency/threat language • High transaction amount • Suspicious payee token detected,HOLD & VERIFY KYC • Block payee • Call customer,2025-08-23 03:03:37
+ACC1039,insurancepremium@upi,3062.35,20,SAFE,Regular bill payment,Allow • Monitor,2025-08-22 14:16:29
+ACC1040,hospitalpayment@upi,3639.71,34,SAFE,Amount within usual range,Allow • Monitor,2025-08-28 10:14:54
+ACC1041,coffeehouse@upi,2677.1,31,SAFE,Known payee history,Allow • Monitor,2025-08-27 11:51:47
+ACC1042,random123456@upi,14568.94,76,FRAUD,Random digits in UPI handle • High transaction amount • Urgency/threat language,HOLD & VERIFY KYC • Block payee • Call customer,2025-08-22 02:29:07
+ACC1043,hospitalpayment@upi,3082.01,25,SAFE,Regular bill payment,Allow • Monitor,2025-08-29 06:04:07
+ACC1044,updatekyc@upi,9156.45,48,SUSPICIOUS,Suspicious payee pattern • New/unknown payee,Manual review • OTP confirm • Call-back verification,2025-08-29 01:24:17
+ACC1045,taxdept@upi,4388.85,31,SAFE,Regular bill payment,Allow • Monitor,2025-08-25 04:22:16
+ACC1046,canteen@upi,728.82,29,SAFE,Business hours transaction,Allow • Monitor,2025-08-21 22:17:07
+ACC1047,helplinecenter@upi,13488.88,42,SUSPICIOUS,New/unknown payee • Repeated payments detected,Manual review • OTP confirm • Call-back verification,2025-08-26 10:39:44
+ACC1048,insurancepremium@upi,4490.28,18,SAFE,Amount within usual range,Allow • Monitor,2025-08-23 07:25:39
+ACC1049,grocerymart@upi,4420.02,23,SAFE,Known payee history,Allow • Monitor,2025-08-27 15:59:41
+ACC1050,kbclottery@upi,8976.96,85,FRAUD,Suspicious payee token detected • Random digits in UPI handle • Potential phishing pattern,HOLD & VERIFY KYC • Block payee • Call customer,2025-08-30 16:08:42
+ACC1051,electricityboard@upi,2135.32,25,SAFE,Known payee history,Allow • Monitor,2025-08-25 19:35:49
+ACC1052,updatekyc@upi,585.76,51,SUSPICIOUS,Invoice-like rounded amount • Unusual time of transfer,Manual review • OTP confirm • Call-back verification,2025-08-29 00:41:58
+ACC1053,electricityboard@upi,2611.3,25,SAFE,Known payee history,Allow • Monitor,2025-08-25 02:39:03
+ACC1054,schoolfees@upi,4859.89,22,SAFE,Amount within usual range,Allow • Monitor,2025-08-21 11:03:38
+ACC1055,fakeoffer@upi,45389.04,71,FRAUD,Suspicious payee token detected • Random digits in UPI handle • Potential phishing pattern,HOLD & VERIFY KYC • Block payee • Call customer,2025-08-22 17:50:47
+ACC1056,canteen@upi,2059.44,23,SAFE,Business hours transaction,Allow • Monitor,2025-08-29 02:44:33
+ACC1057,taxdept@upi,492.84,25,SAFE,Business hours transaction,Allow • Monitor,2025-08-20 14:40:31
+ACC1058,cashbackverify@upi,18779.32,48,SUSPICIOUS,Repeated payments detected • Unusual time of transfer,Manual review • OTP confirm • Call-back verification,2025-08-30 11:13:28
+ACC1059,bonusrefund@upi,4603.68,67,SUSPICIOUS,Invoice-like rounded amount • Unusual time of transfer,Manual review • OTP confirm • Call-back verification,2025-08-24 12:25:48
+ACC1060,helplinecenter@upi,8471.65,57,SUSPICIOUS,New/unknown payee • Unusual time of transfer,Manual review • OTP confirm • Call-back verification,2025-08-25 06:38:07
+ACC1061,trustedshop@upi,1230.26,37,SAFE,Amount within usual range,Allow • Monitor,2025-08-21 13:52:41
+ACC1062,utilitiesbill@upi,1048.75,20,SAFE,Amount within usual range,Allow • Monitor,2025-08-25 06:53:21
+ACC1063,trustedshop@upi,1069.06,39,SAFE,Regular bill payment,Allow • Monitor,2025-08-28 02:12:27
+ACC1064,rentlandlord@upi,4028.21,26,SAFE,Known payee history,Allow • Monitor,2025-08-24 09:20:43
+ACC1065,servicepayment@upi,10211.95,63,SUSPICIOUS,Invoice-like rounded amount • New/unknown payee,Manual review • OTP confirm • Call-back verification,2025-08-24 02:43:21
+ACC1066,metrocard@upi,576.09,29,SAFE,Business hours transaction,Allow • Monitor,2025-08-30 23:44:06
+ACC1067,cryptoairdrop@upi,48545.31,82,FRAUD,Suspicious payee token detected • Potential phishing pattern • High transaction amount,HOLD & VERIFY KYC • Block payee • Call customer,2025-08-24 15:50:04
+ACC1068,canteen@upi,3657.78,37,SAFE,Amount within usual range,Allow • Monitor,2025-08-22 22:44:04
+ACC1069,utilitiesbill@upi,120.56,19,SAFE,Business hours transaction,Allow • Monitor,2025-08-30 17:18:21
+ACC1070,grocerymart@upi,468.2,16,SAFE,Amount within usual range,Allow • Monitor,2025-08-27 02:25:14
+ACC1071,claimreward99999@upi,34941.59,77,FRAUD,Suspicious payee token detected • Urgency/threat language • Random digits in UPI handle,HOLD & VERIFY KYC • Block payee • Call customer,2025-08-21 00:43:41
+ACC1072,urgenthelp09876@upi,13898.91,70,FRAUD,Potential phishing pattern • Suspicious payee token detected • High transaction amount,HOLD & VERIFY KYC • Block payee • Call customer,2025-08-26 03:55:06
+ACC1073,blockedaccount98765@upi,11675.43,79,FRAUD,Potential phishing pattern • Random digits in UPI handle • High transaction amount,HOLD & VERIFY KYC • Block payee • Call customer,2025-08-22 08:02:20
+ACC1074,paylaternotice@upi,10154.73,48,SUSPICIOUS,Suspicious payee pattern • Unusual time of transfer,Manual review • OTP confirm • Call-back verification,2025-08-23 17:02:09
+ACC1075,schoolfees@upi,4094.37,23,SAFE,Known payee history,Allow • Monitor,2025-08-22 22:32:44
+ACC1076,electricityboard@upi,1533.25,15,SAFE,Known payee history,Allow • Monitor,2025-08-30 16:28:34
+ACC1077,bonusrefund@upi,17094.3,56,SUSPICIOUS,Suspicious payee pattern • Invoice-like rounded amount,Manual review • OTP confirm • Call-back verification,2025-08-23 07:56:25
+ACC1078,prizeclaim001234@upi,36313.19,80,FRAUD,Potential phishing pattern • Suspicious payee token detected • High transaction amount,HOLD & VERIFY KYC • Block payee • Call customer,2025-08-27 13:26:30
+ACC1079,canteen@upi,4465.11,37,SAFE,Regular bill payment,Allow • Monitor,2025-08-30 23:37:41
+ACC1080,rewardcenter@upi,10186.55,64,SUSPICIOUS,New/unknown payee • Unusual time of transfer,Manual review • OTP confirm • Call-back verification,2025-08-21 05:15:54
+ACC1081,urgentrefund@upi,7521.57,71,FRAUD,Random digits in UPI handle • Urgency/threat language • Potential phishing pattern,HOLD & VERIFY KYC • Block payee • Call customer,2025-08-25 11:49:11
+ACC1082,utilitiesbill@upi,143.26,35,SAFE,Business hours transaction,Allow • Monitor,2025-08-28 16:54:14
+ACC1083,rentlandlord@upi,2311.9,15,SAFE,Known payee history,Allow • Monitor,2025-08-22 02:18:45
+ACC1084,coffeehouse@upi,376.95,31,SAFE,Known payee history,Allow • Monitor,2025-08-27 17:10:55
+ACC1085,canteen@upi,1212.19,23,SAFE,Business hours transaction,Allow • Monitor,2025-08-23 16:24:03
+ACC1086,hospitalpayment@upi,429.86,27,SAFE,Known payee history,Allow • Monitor,2025-08-30 18:27:39
+ACC1087,coworker@upi,3231.68,35,SAFE,Regular bill payment,Allow • Monitor,2025-08-22 05:50:04
+ACC1088,internetprovider@upi,3275.1,23,SAFE,Regular bill payment,Allow • Monitor,2025-08-25 06:36:55
+ACC1089,servicepayment@upi,1401.09,55,SUSPICIOUS,New/unknown payee • Invoice-like rounded amount,Manual review • OTP confirm • Call-back verification,2025-08-24 11:37:24
+ACC1090,rentlandlord@upi,2606.85,37,SAFE,Business hours transaction,Allow • Monitor,2025-08-28 00:57:46
+ACC1091,cashbackverify@upi,11071.71,68,SUSPICIOUS,Invoice-like rounded amount • Unusual time of transfer,Manual review • OTP confirm • Call-back verification,2025-08-24 11:07:33
+ACC1092,rentlandlord@upi,428.5,29,SAFE,Amount within usual range,Allow • Monitor,2025-08-29 00:21:50
+ACC1093,electricityboard@upi,4586.95,21,SAFE,Known payee history,Allow • Monitor,2025-08-23 10:42:59
+ACC1094,offerclaim@upi,10576.5,63,SUSPICIOUS,Suspicious payee pattern • Repeated payments detected,Manual review • OTP confirm • Call-back verification,2025-08-25 12:49:40
+ACC1095,metrocard@upi,3531.52,18,SAFE,Business hours transaction,Allow • Monitor,2025-08-24 02:07:39
+ACC1096,electricityboard@upi,837.37,15,SAFE,Business hours transaction,Allow • Monitor,2025-08-28 00:24:42
+ACC1097,supportdesk@upi,2986.0,63,SUSPICIOUS,Repeated payments detected • Unusual time of transfer,Manual review • OTP confirm • Call-back verification,2025-08-25 21:41:36
+ACC1098,canteen@upi,58.62,25,SAFE,Known payee history,Allow • Monitor,2025-08-25 22:30:00
+ACC1099,metrocard@upi,3579.47,21,SAFE,Amount within usual range,Allow • Monitor,2025-08-24 17:13:09
+ACC1100,schoolfees@upi,1981.3,27,SAFE,Amount within usual range,Allow • Monitor,2025-08-29 10:46:53
